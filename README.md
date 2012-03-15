@@ -6,4 +6,5 @@ This is a suite of Matlab functions designed for visualizing electrocorticograph
 Installation
 ============
 
-Download from File Exchange (URL pending final approval from Mathworks)
+Download from File Exchange (http://www.mathworks.com/matlabcentral/fileexchange/35496) and place the files in a directory accessible by the Matlab path.
+
